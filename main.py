@@ -1,3 +1,4 @@
 # import removeDuplicates
 # import moveZeros
-import SortArrayByParity
+# import SortArrayByParity
+import SortedSquares
